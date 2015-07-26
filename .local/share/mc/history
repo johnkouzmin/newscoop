@@ -1,0 +1,20 @@
+[cmdline]
+0=
+
+[mc.esc.timeout]
+0=1000000
+
+[Dir Hist New Right Panel]
+0=/
+1=/etc
+2=/etc/apt
+3=/root
+
+[Dir Hist New Left Panel]
+0=/var
+1=/usr
+2=/tmp
+3=/sys
+4=/
+5=/root
+6=/root/.ssh
